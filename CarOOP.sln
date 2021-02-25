@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarOOP", "CarOOP\CarOOP.csproj", "{C06347FE-EDCC-48F8-B605-86EEB37FD2A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C06347FE-EDCC-48F8-B605-86EEB37FD2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C06347FE-EDCC-48F8-B605-86EEB37FD2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C06347FE-EDCC-48F8-B605-86EEB37FD2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C06347FE-EDCC-48F8-B605-86EEB37FD2A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1717D78D-EE44-48F0-B097-6422A8DB2238}
+	EndGlobalSection
+EndGlobal
